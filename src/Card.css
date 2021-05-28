@@ -1,0 +1,32 @@
+.card {
+  display: flex;
+  justify-content: center;
+  margin-top: 10vh;
+}
+.card__tinderCardContainer {
+  position: absolute;
+}
+
+.card__image {
+  position: relative;
+  background-color: white;
+  width: 600px;
+  height: 50vh;
+  padding: 2em;
+  max-width: 85vw;
+  box-shadow: 0px 10px 53px 0px rgba(0, 0, 0, 0.3);
+  background-size: cover;
+  background-position: center;
+  border-radius: 20px;
+}
+.card__image h3 {
+  position: absolute;
+  bottom: 0;
+  margin: 10px;
+  color: white;
+  text-transform: capitalize;
+  font-weight: 500;
+  padding: 5px;
+  background-color: rgba(0, 0, 0, 0.7);
+  border-radius: 5px;
+}

@@ -1,3 +1,10 @@
+## Demo Link 
+https://tinder-clone-29aaf.web.app/
+<img src="https://github.com/alan-saldanha017/Disney-Hotstar-Clone/blob/master/home-page%20Screen%20Capture.PNG"/>
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
